@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: green !important;
+}
+
+[type='checkbox'] {
+    margin: 20px 0px 20px 0px
+}
+
+p {
+    --text: gray;
+}
